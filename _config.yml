@@ -1,6 +1,6 @@
 # Site settings
 title: DorsetBirdHouse
-email: ""
+email: "dorsetbirdhouse@gmail.com"
 description: "Dorset Bird House"
 url: "http://goldsmithd.github.io"
 baseurl: "/dorsetBirdhouse"
@@ -18,7 +18,7 @@ owner:
   name:   DorsetBirdHouse
   avatar: avatar.png
   favicon: favicon.ico
-  info: Dorset Bird House website 
+  info: Dorset Bird House Website 
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
